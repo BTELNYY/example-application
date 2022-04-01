@@ -12,7 +12,6 @@ namespace Example
                 Directory.CreateDirectory(Globals.log_path);
             }
             string date = DateTime.Now.ToString("dd-MM-yyyy");
-            string time = DateTime.Now.ToString("hh\\:mm\\:ss");
             string file = Globals.log_path + date + ".log";
             Utility.write_verbose("Verbose message");
             Utility.write_debug("Debug message");
