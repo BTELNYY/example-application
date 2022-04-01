@@ -1,2 +1,2 @@
-# discord-bot
- A simple discord bot I made
+# Example Application
+ A simple application meant for use as an example

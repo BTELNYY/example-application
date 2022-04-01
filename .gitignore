@@ -1,4 +1,4 @@
-Simple Server Bot/bin
-Simple Server Bot/obj
-Simple Server Bot/.vs
+example-application/bin
+example-application/obj
+example-application/.vs
 *.suo
